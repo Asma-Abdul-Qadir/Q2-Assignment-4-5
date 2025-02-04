@@ -1,4 +1,3 @@
-// src/app/Blog2/page.tsx
 import React from 'react';
 import Image from 'next/image';
 
@@ -36,7 +35,7 @@ const Blog2: React.FC = () => {
                 <ul className="list-disc list-inside text-lg text-gray-300 mt-2">
                     <li className="mt-2"><b><u>Reduced Stress:</u></b> Regular practice helps lower stress levels, promoting a sense of calm and balance.</li>
                     <li className="mt-2"><b><u>Enhanced Focus:</u></b> Mindfulness improves concentration and attention, allowing for greater productivity and clarity in tasks.</li>
-                    <li className="mt-2"><b><u>Emotional Resilience:</u></b> These practices foster a healthier relationship with emotions, enabling better responses to life's challenges.</li>
+                    <li className="mt-2"><b><u>Emotional Resilience:</u></b> These practices foster a healthier relationship with emotions, enabling better responses to life&apos;s challenges.</li>
                     <li className="mt-2"><b><u>Improved Well-Being:</u></b> Mindfulness and meditation contribute to overall well-being, enhancing feelings of happiness and fulfillment.</li>
                 </ul>
 

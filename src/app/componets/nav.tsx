@@ -15,7 +15,6 @@ export default function Navbar() {
         <div className="hidden md:flex space-x-6">
           <Link href="/" className="hover:text-yellow-300 transition">Home</Link>
           <Link href="/about" className="hover:text-yellow-300 transition">About</Link>
-          <Link href="/blog" className="hover:text-yellow-300 transition">Blog</Link>
           <Link href="/contact" className="hover:text-yellow-300 transition">Contact</Link>
         </div>
         <div className="md:hidden">
@@ -30,7 +29,6 @@ export default function Navbar() {
         <div className="md:hidden mt-2">
           <Link href="/" className="block py-2 px-4 hover:bg-gray-700 transition">Home</Link>
           <Link href="/about" className="block py-2 px-4 hover:bg-gray-700 transition">About</Link>
-          <Link href="/blog" className="block py-2 px-4 hover:bg-gray-700 transition">Blog</Link>
           <Link href="/contact" className="block py-2 px-4 hover:bg-gray-700 transition">Contact</Link>
         </div>
       )}

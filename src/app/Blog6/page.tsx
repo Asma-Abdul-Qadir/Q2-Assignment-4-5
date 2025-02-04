@@ -11,7 +11,7 @@ const Blog6 = () => {
                 </div>
                 <h2 className='capitalize mt-3 text-4xl text-[#FFFFFF]'>Introduction</h2>
                 <p className='text-2xl text-[#EAEAEA] font-bold mt-2'>
-                    Journaling is more than just putting pen to paper; it's a powerful tool for self-discovery and personal growth. By regularly writing down your thoughts, feelings, and experiences, you can unlock insights about yourself, improve your mental well-being, and enhance your creativity. This blog explores the transformative power of journaling and offers practical tips for getting started.
+                    Journaling is more than just putting pen to paper; it&apos;s a powerful tool for self-discovery and personal growth. By regularly writing down your thoughts, feelings, and experiences, you can unlock insights about yourself, improve your mental well-being, and enhance your creativity. This blog explores the transformative power of journaling and offers practical tips for getting started.
                 </p>
                 
                 <h2 className='capitalize mt-3 text-4xl text-[#FFFFFF]'>Benefits of Journaling</h2>
@@ -42,14 +42,14 @@ const Blog6 = () => {
                 </p>
                 <ul className='mt-3 list-disc list-inside'>
                     <li className='text-2xl text-[#EAEAEA] mt-2'><b>Set a Regular Schedule:</b> Choose a specific time each day or week to write, creating a habit.</li>
-                    <li className='text-2xl text-[#EAEAEA] mt-2'><b>Write Freely:</b> Allow your thoughts to flow without judgment. Don’t worry about grammar or structure.</li>
-                    <li className='text-2xl text-[#EAEAEA] mt-2'><b>Use Prompts:</b> If you’re unsure what to write about, use prompts to spark inspiration.</li>
+                    <li className='text-2xl text-[#EAEAEA] mt-2'><b>Write Freely:</b> Allow your thoughts to flow without judgment. Don&apos;t worry about grammar or structure.</li>
+                    <li className='text-2xl text-[#EAEAEA] mt-2'><b>Use Prompts:</b> If you&apos;re unsure what to write about, use prompts to spark inspiration.</li>
                     <li className='text-2xl text-[#EAEAEA] mt-2'><b>Keep It Private:</b> Make your journal a safe space where you can express yourself freely.</li>
                 </ul>
 
                 <h2 className='capitalize mt-3 text-4xl text-[#FFFFFF]'>Conclusion</h2>
                 <p className='text-2xl text-[#EAEAEA] font-bold'>
-                    The power of journaling lies in its ability to foster self-awareness, creativity, and emotional health. By dedicating time to reflect on your thoughts and experiences, you can unlock your potential and navigate life's challenges with greater clarity and resilience. So grab a notebook, start writing, and embark on your journey of self-discovery through the art of journaling!
+                    The power of journaling lies in its ability to foster self-awareness, creativity, and emotional health. By dedicating time to reflect on your thoughts and experiences, you can unlock your potential and navigate life&apos;s challenges with greater clarity and resilience. So grab a notebook, start writing, and embark on your journey of self-discovery through the art of journaling!
                 </p>
             </div>
         </div>

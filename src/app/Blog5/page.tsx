@@ -4,14 +4,14 @@ import Image from 'next/image';
 const Blog5: React.FC = () => {
     return (
         <div className="bg-[#1F1F1F] pt-24 p-5"> {/* Adjusted padding-top for gap with navbar */}
-            <div className="max-w-7xl mx-auto p-10 bg-[#2B2C28] rounded-lg shadow-lg"> {/* Increased max width */}
+            <div className="max-w-7xl mx-auto p-10 bg-[#2B2C28] rounded-lg shadow-lg">
                 <h1 className='text-center text-6xl text-[#FFFFFF] font-bold mb-8'>Building Resilience: Strengthening Your Inner Core</h1>
                 <div className="mb-6">
                     <Image src='/resilience1.jpg' alt='Building Resilience' width={600} height={400} className='w-full h-auto rounded-lg' />
                 </div>
                 <h2 className='capitalize mt-3 text-4xl text-[#FFFFFF]'>Introduction</h2>
                 <p className='text-2xl text-[#EAEAEA] font-bold mt-2'>
-                    Resilience is the ability to bounce back from adversity, adapt to challenges, and keep moving forward. In today's fast-paced and often unpredictable world, building resilience is essential for personal growth and emotional well-being. It enables us to navigate life's ups and downs with strength and confidence.
+                    Resilience is the ability to bounce back from adversity, adapt to challenges, and keep moving forward. In today&apos;s fast-paced and often unpredictable world, building resilience is essential for personal growth and emotional well-being. It enables us to navigate life&apos;s ups and downs with strength and confidence.
                 </p>
                 
                 <h2 className='capitalize mt-3 text-4xl text-[#FFFFFF]'>The Importance of Resilience</h2>
@@ -49,7 +49,7 @@ const Blog5: React.FC = () => {
 
                 <h2 className='capitalize mt-3 text-4xl text-[#FFFFFF]'>Conclusion</h2>
                 <p className='text-2xl text-[#EAEAEA] font-bold'>
-                    Building resilience is an ongoing journey that empowers you to face life's challenges with strength and grace. By cultivating resilience, you not only enhance your ability to cope with adversity but also improve your overall quality of life. Embrace the process, and remember that each challenge you overcome strengthens your inner core!
+                    Building resilience is an ongoing journey that empowers you to face life&apos;s challenges with strength and grace. By cultivating resilience, you not only enhance your ability to cope with adversity but also improve your overall quality of life. Embrace the process, and remember that each challenge you overcome strengthens your inner core!
                 </p>
             </div>
         </div>
